@@ -49,6 +49,8 @@ I am a creative🎡,not time punctual👩‍🎓, dedicated🎯, goal-oriented i
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-brightgreen?logo=django&Color=white"></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
